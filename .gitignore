@@ -1,0 +1,6 @@
+﻿# Java / NetBeans
+/build/
+/nbproject/private/
+*.class
+*.log
+*.ctxt
